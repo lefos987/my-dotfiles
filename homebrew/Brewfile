@@ -1,0 +1,15 @@
+cask_args appdir: '/Applications'
+
+tap 'caskroom/cask'
+tap 'homebrew/bundle'
+
+cask 'google-chrome'
+cask 'google-backup-and-sync'
+cask 'iterm2'
+cask 'lastpass'
+cask 'spotify'
+cask 'vlc'
+cask 'webstorm'
+
+brew 'zsh'
+brew 'git'
